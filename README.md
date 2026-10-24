@@ -1,3 +1,4 @@
 # ¡Hola! Bienvenido a mi perfil 👋
 
-![Visitas](https://shields.io)
+<img src="https://glitch.me" alt="Visitas de axi010" />
+
