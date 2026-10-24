@@ -1,3 +1,4 @@
 # ¡Hola! Bienvenido a mi perfil 👋
 
-![Visitas](https://itsvg.in)
+Este perfil ha sido visitado:
+![Contador de Visitas](https://glitch.me)
