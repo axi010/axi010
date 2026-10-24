@@ -1,4 +1,7 @@
 # ¡Hola! Bienvenido a mi perfil 👋
 
-<img src="https://glitch.me" alt="Visitas de axi010" />
+### 📊 Mis estadísticas de GitHub
 
+![Estadísticas de axi010](https://vercel.app)
+
+![Top Lenguajes](https://vercel.app)
